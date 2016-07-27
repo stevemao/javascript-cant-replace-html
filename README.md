@@ -42,4 +42,4 @@ Surprise! [The only way to do a form post is through HTML](http://stackoverflow.
 
 ## `<iframe>`
 
-This is the only way to have a browser inside your website.
+This is the only way to have a "browser" inside your website.
