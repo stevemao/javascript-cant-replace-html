@@ -40,6 +40,6 @@ Yes, search engines do run JavaScript now. No they won't treat a `<div>` with a 
 
 Surprise! [The only way to do a form post is through HTML](http://stackoverflow.com/a/133997/2075423).
 
-## <iframe>
+## `<iframe>`
 
 This is the only way to have a browser inside your website.
