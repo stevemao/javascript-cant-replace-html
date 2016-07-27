@@ -30,7 +30,7 @@ No, you can't command your VoiceOver to call a `<div>` an anchor link. In fact, 
 
 ## Context Menu
 
-EG: "Open Link In New Tab". You can't add this in JavaScript. No You can't. [You can't even do customize context menu in most browsers](http://caniuse.com/#search=context).
+EG: "Open Link In New Tab". You can't add this to your "right click menu" in JavaScript. No You can't. [You can't even do customize context menu in most browsers](http://caniuse.com/#search=context).
 
 ## Search engine
 
