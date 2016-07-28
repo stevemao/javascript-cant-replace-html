@@ -36,10 +36,6 @@ EG: "Open Link In New Tab". You can't add this to your "right click menu" in Jav
 
 Yes, search engines do run JavaScript now. No they won't treat a `<div>` with a click event listener the same as an `<a>`. [They will probably ignore the changes made by JavaScript in your `<head>` metadata](http://stackoverflow.com/a/413455/2075423).
 
-## Form post
-
-Surprise! [The only way to do a form post is through HTML](http://stackoverflow.com/a/133997/2075423).
-
 ## `<iframe>`
 
 This is the only way to have a "browser" inside your website.
